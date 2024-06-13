@@ -1,0 +1,35 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(69, 70, 107);
+    color: white;
+  }
+  
+  .container {
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+#pictureButton {
+    background-image: url('bg_stream_shield_gold.png');
+    background-size: cover;
+    border: none;
+    padding: 0;
+    width: auto;
+    height: 227px;
+    cursor: pointer;
+}
+
+.button-text {
+    margin-top: 10px;
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Handjet', cursive;;
+  }

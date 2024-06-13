@@ -1,0 +1,38 @@
+[
+    {
+        "image": "../assets/stream_ame_drag_009_5.png",
+        "name": "Ame Drag"
+    },
+    {
+        "image": "../assets/stream_ame_idle_happy_002_5.png",
+        "name": "Ame *Happy*"
+    },
+    {
+        "image": "../assets/stream_ame_idle_anxiety_002_1.png",
+        "name": "Ame Anxiety"
+    },
+    {
+        "image": "../assets/stream_ame_talk_003.png",
+        "name": "Ame Talk"
+    },
+    {
+        "image": "../assets/stream_cho_anken_figure5_003.png",
+        "name": "Kangel Figure"
+    },
+    {
+        "image": "../assets/stream_cho_h_001.png",
+        "name": "Kangel H"
+    },
+    {
+        "image": "../assets/stream_cho_kashikoma_otaku_005.png",
+        "name": "Kangel Otaku"
+    },
+    {
+        "image": "../assets/stream_cho_vomiting_010.png",
+        "name": "Kangel Vomit"
+    },
+    {
+        "image": "../assets/stream_cho_anken_make5_000.png",
+        "name": "Kangel Papers"
+    }
+]
